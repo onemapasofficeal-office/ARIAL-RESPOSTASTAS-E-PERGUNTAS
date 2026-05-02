@@ -1,5 +1,38 @@
 {
   "capital do brasil": [
     "A capital do Brasil \u00E9 Bras\u00EDlia."
+  ],
+  "o que e dotnet": [
+    ".NET \u00E9 uma plataforma de desenvolvimento da Microsoft."
+  ],
+  "o que e winforms": [
+    "Windows Forms (WinForms) \u00E9 um framework para criar interfaces gr\u00E1ficas desktop no .NET."
+  ],
+  "o que e inteligencia artificial": [
+    "IA \u00E9 a simula\u00E7\u00E3o de processos de intelig\u00EAncia humana por sistemas computacionais."
+  ],
+  "quem criou voce": [
+    "Fui criada em .NET 10 com WinForms, sem APIs externas. Sou a Arial!"
+  ],
+  "como voce funciona": [
+    "Processo linguagem natural localmente, uso base de conhecimento JSON e aprendo com cada conversa."
+  ],
+  "o que e machine learning": [
+    "Machine Learning \u00E9 um subcampo da IA onde sistemas aprendem padr\u00F5es a partir de dados."
+  ],
+  "o que e csharp": [
+    "C# \u00E9 uma linguagem moderna, orientada a objetos, desenvolvida pela Microsoft."
+  ],
+  "o que e sql": [
+    "SQL \u00E9 uma linguagem para gerenciar e consultar bancos de dados relacionais."
+  ],
+  "o que e git": [
+    "Git \u00E9 um sistema de controle de vers\u00E3o distribu\u00EDdo."
+  ],
+  "linguagem favorita": [
+    "Minha linguagem favorita \u00E9 C#! Afinal, fui feita com ela."
+  ],
+  "io": [
+    "The Internet country code top-level domain.io is nominally assigned to the British Indian Ocean Territory. The domain is managed by Internet Computer Bureau Ltd, a domain name registry, with registrar services provided by Name.com."
   ]
 }
