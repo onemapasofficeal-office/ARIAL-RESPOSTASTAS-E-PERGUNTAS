@@ -1,50 +1,5 @@
 {
   "capital do brasil": [
     "A capital do Brasil \u00E9 Bras\u00EDlia."
-  ],
-  "o que e dotnet": [
-    ".NET \u00E9 uma plataforma de desenvolvimento da Microsoft."
-  ],
-  "o que e winforms": [
-    "Windows Forms (WinForms) \u00E9 um framework para criar interfaces gr\u00E1ficas desktop no .NET."
-  ],
-  "o que e inteligencia artificial": [
-    "IA \u00E9 a simula\u00E7\u00E3o de processos de intelig\u00EAncia humana por sistemas computacionais."
-  ],
-  "quem criou voce": [
-    "Fui criada em .NET 10 com WinForms, sem APIs externas. Sou a Arial!"
-  ],
-  "como voce funciona": [
-    "Processo linguagem natural localmente, uso base de conhecimento JSON e aprendo com cada conversa."
-  ],
-  "o que e machine learning": [
-    "Machine Learning \u00E9 um subcampo da IA onde sistemas aprendem padr\u00F5es a partir de dados."
-  ],
-  "o que e csharp": [
-    "C# \u00E9 uma linguagem moderna, orientada a objetos, desenvolvida pela Microsoft."
-  ],
-  "o que e sql": [
-    "SQL \u00E9 uma linguagem para gerenciar e consultar bancos de dados relacionais."
-  ],
-  "o que e git": [
-    "Git \u00E9 um sistema de controle de vers\u00E3o distribu\u00EDdo."
-  ],
-  "linguagem favorita": [
-    "Minha linguagem favorita \u00E9 C#! Afinal, fui feita com ela."
-  ],
-  "io": [
-    "The Internet country code top-level domain.io is nominally assigned to the British Indian Ocean Territory. The domain is managed by Internet Computer Bureau Ltd, a domain name registry, with registrar services provided by Name.com."
-  ],
-  "ok": [
-    "OK, with spelling variations including okay, O.K. and many others, is an English word denoting approval, acceptance, agreement, assent, acknowledgment, or a sign of indifference. OK is frequently used as a loanword in other languages. It has been described as the most frequently spoken or written word on the planet. The origin of OK is disputed; however, most modern reference works hold that it originated around Boston as part of a fad in the late 1830s of abbreviating misspellings \u2013 that it is an initialism of \u0022oll korrect\u0022 as a misspelling of \u0022all correct\u0022. This origin was first described by linguist Allen Walker Read in the 1960s. As an adjective, OK principally means \u0022adequate\u0022 or \u0022acceptable\u0022 as a contrast to \u0022bad\u0022; it can also mean \u0022mediocre\u0022 when used in contrast with \u0022good\u0022. It fulfills a similar role as an adverb. As an interjection, it can denote compliance, or agreement. It can mean \u0022assent\u0022 when it is used as a noun or, more colloquially, as a verb."
-  ],
-  "pato": [
-    "Pato, also called juego del pato, is a game played on horseback that combines elements from polo and basketball. Since 1953 it has been the national sport of Argentina."
-  ],
-  "tokens": [
-    "Tokenization (data security) The process of substituting a sensitive data element with a non-sensitive equivalent, referred to..."
-  ],
-  "github": [
-    "GitHub is a proprietary developer platform that allows developers to create, store, manage, and share their code. It uses Git to provide distributed version control and GitHub itself provides access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project. GitHub, headquartered in San Francisco, is operated by Github, Inc., a subsidiary of Microsoft since 2018. It is commonly used to host open source software development projects. As of January 2023, GitHub reported having over 100 million developers and more than 420 million repositories, including at least 28 million public repositories. It is the world\u0027s largest source code host as of June 2023. Over five billion developer contributions were made to more than 500 million open source projects in 2024."
   ]
 }
